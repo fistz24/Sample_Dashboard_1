@@ -143,7 +143,7 @@ server=app.server
 app.layout = html.Div(
     [
     html.Div([
-        html.Span(" Ini Teh Performance Metrics and Overview", className = 'app-title'),
+        html.Span(" Leaf Cafe Performance Metrics and Overview", className = 'app-title'),
 
         html.Div(
             html.Img(src='https://drive.google.com/drive/u/0/search?q=logo'),
@@ -484,7 +484,7 @@ def update_graph(select_cities):
 # app.run_server(port=8081, host ='127.0.0.1')
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(port=8081, host ='127.0.0.1')
 
 
 
