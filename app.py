@@ -484,7 +484,7 @@ def update_graph(select_cities):
 # app.run_server(port=8081, host ='127.0.0.1')
 
 if __name__ == '__main__':
-    app.run_server(p7.0.0.1')
+    app.run_server(debug=True)
 
 
 
