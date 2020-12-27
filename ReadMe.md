@@ -20,7 +20,9 @@ All the data used are dummy data
 * The definitions.py file is used to define number formatting
 
 Here are some of the preview of the Dashboard
-![alt text]()
+![alt text](https://github.com/fistz24/Sample_Dashboard_1/blob/master/Images/Screen%20Shot%202020-12-27%20at%2011.10.58%20AM.png)
+
+
 **Contact Me**
 
  E-Mail | fondairena@gmail.com
