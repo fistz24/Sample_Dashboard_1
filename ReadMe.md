@@ -19,7 +19,8 @@ All the data used are dummy data
 * The styling of the dashboard can be changed by changing the css files, which are located in the "asset" folder
 * The definitions.py file is used to define number formatting
 
-
+Here are some of the preview of the Dashboard
+![alt text]()
 **Contact Me**
 
  E-Mail | fondairena@gmail.com
