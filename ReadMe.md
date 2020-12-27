@@ -1,10 +1,10 @@
 Motivation
 ----------
 This simple Sales Dashboard was built to help small businesses to track their performances.
-I realized that we could only find complex dashboards that are applicable to corporate activities only, and nothing is available to be used directly by small businesses.
+I realized that we could only find complex dashboards that are applicable to corporate activities only, and no resources are available for small businesses.
 
 ## Dataset
-All the data used were dummy data
+All the data used are dummy data
 
 ## Files Explained
 * The project assumes the business is located in two cities; Jakarta & Surabaya, Indonesia - This can be adjusted based on your needs by adding or removing the cities
