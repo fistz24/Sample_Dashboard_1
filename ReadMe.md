@@ -10,7 +10,7 @@ All the data used are dummy data
 * The project assumes the business is located in two cities; Jakarta & Surabaya, Indonesia - This can be adjusted based on your needs by adding or removing the cities
 * The project assumes the business as a cafe business, with drinks as the main products
 * Total cups sold recorded in the Python file is the number of cups sold by the cafe
-* Costs were classified into 3 categories:
+* Costs were classified into 4 categories:
     * Fixed Costs
     * Ingredients Costs 
     * Other Variable Costs
